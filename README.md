@@ -40,7 +40,7 @@ To validate the impact of punctuality on customer sentiment, I established the f
 
 ### Visual Analysis
 *(Placeholder: Upload your boxplot image to an 'images' folder and reference it here)*
-![Distribution of Delays](images/delay_boxplot.png)
+![Distribution of Delays](Images/Boxplot_1.png)
 > *The boxplot analysis revealed significant outliers in the "Long Haul" category, indicating that while the median delay is often low, extreme delays are common.*
 
 ### Statistical Findings
